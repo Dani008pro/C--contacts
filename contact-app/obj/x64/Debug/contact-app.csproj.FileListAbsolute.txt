@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\contact-app\bin\x64\Debug\Contact.accdb
+C:\Users\pc\Desktop\contact-app\bin\x64\Debug\contact-app.exe.config
+C:\Users\pc\Desktop\contact-app\bin\x64\Debug\contact-app.exe
+C:\Users\pc\Desktop\contact-app\bin\x64\Debug\contact-app.pdb
+C:\Users\pc\Desktop\contact-app\obj\x64\Debug\contact-app.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\contact-app\obj\x64\Debug\contact-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\contact-app\obj\x64\Debug\contact_app.Form1.resources
+C:\Users\pc\Desktop\contact-app\obj\x64\Debug\contact_app.Properties.Resources.resources
+C:\Users\pc\Desktop\contact-app\obj\x64\Debug\contact-app.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\contact-app\obj\x64\Debug\contact-app.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\contact-app\obj\x64\Debug\contact-app.exe
+C:\Users\pc\Desktop\contact-app\obj\x64\Debug\contact-app.pdb
